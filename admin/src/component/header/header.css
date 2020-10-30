@@ -1,0 +1,26 @@
+.header {
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    font-size: 28px;
+    background: #6A1B9A;
+}
+
+.header h1 {
+    display: inline;
+}
+
+.ant-input-search {
+    margin-top: 25px;
+}
+
+.logo-side {
+    position: absolute;
+    left: 160px;
+    color: #fff
+}
+
+.title {
+    text-align: center;
+    color: #fff
+}
